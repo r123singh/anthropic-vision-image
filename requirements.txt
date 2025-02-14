@@ -1,4 +1,3 @@
 streamlit
 anthropic
-base64
 httpx
